@@ -123,7 +123,7 @@ class App extends React.Component
         <footer className="text-gray-500 dark:text-gray-400">
           <div className="text-center text-md p-8 flex justify-center item-center">
             Made with TailwindCSS by Stephen.   
-            <a target="_blank" rel="noreferrer" href='https://github.com/Osalumense'> <FaGithub className='text-2xl ml-2 hover:animate-pulse'/></a>
+            <a target="_blank" rel="noreferrer" href='https://github.com/Osalumense'> <FaGithub className='text-3xl ml-2 hover:animate-pulse'/></a>
           </div>
         </footer>
 
