@@ -54,7 +54,7 @@ class App extends React.Component
 
     return (
      
-      <body className="flex flex-col h-screen">
+      <body className="flex flex-col min-h-screen">
         
         <header className="flex flex-col items-center justify-center p-8">
           <img 

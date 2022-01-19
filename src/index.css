@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,700&family=Courgette&family=Lobster&display=swap');
+
+body {
+  font-family: 'Amaranth', sans-serif;
+}
+
+cite {
+  font-family: 'Courgette', cursive;
+}
+
+a {
+  font-family: 'Lobster', cursive;
+}
