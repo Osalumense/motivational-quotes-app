@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a React JS application that generates random motivational quotes. 
 It was designed using TailwindCSS.
-This application utilizes the random quotes API (more about that can be seen here)[https://github.com/lukePeavey/quotable]
+This application utilizes the random quotes API [more about that can be seen here](https://github.com/lukePeavey/quotable)
 
 ### Live Demo
 
-This application was hosted on vercel and the live demo can be viewed (here)[https://motivational-quotes-app.vercel.app/]
+This application was hosted on vercel and the live demo can be viewed [here](https://motivational-quotes-app.vercel.app/)
