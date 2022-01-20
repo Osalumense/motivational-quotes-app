@@ -50,7 +50,7 @@ class App extends React.Component
     const tweetURL = `https://twitter.com/intent/tweet?text=${quote.content} - ${quote.author}`;
 
     const facebookURL =
-      "https://www.facebook.com/sharer/sharer.php?u=https://try-not-to-laugh-challenge.netlify.app/";
+      "https://www.facebook.com/sharer/sharer.php?u=https://motivational-quotes-app.vercel.app/";
 
     return (
      
