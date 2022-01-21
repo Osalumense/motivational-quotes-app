@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 ##Screenshots
 
 Light Mode
@@ -8,7 +11,7 @@ Light Mode
 Dark Mode
 ![dark mode](https://user-images.githubusercontent.com/43953425/150501103-3f4e3466-3ba4-4c38-802d-d6e216eaee4a.PNG)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Description
 
