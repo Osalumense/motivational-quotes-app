@@ -3,12 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##Screenshots
+## Screenshots
 
-Light Mode
+### Light Mode
 ![lightmode](https://user-images.githubusercontent.com/43953425/150501075-ced19a3a-1181-418a-a20b-88942267cf8b.PNG)
 
-Dark Mode
+### Dark Mode
 ![dark mode](https://user-images.githubusercontent.com/43953425/150501103-3f4e3466-3ba4-4c38-802d-d6e216eaee4a.PNG)
 
 
