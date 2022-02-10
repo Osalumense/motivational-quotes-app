@@ -15,9 +15,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This is a React JS application that generates random motivational quotes. 
-It was designed using TailwindCSS.
-It demonstrates the useEffect and useState React Hooks which I intend to use more in future.
+This is a React JS application that generates random motivational quotes. <br/>
+It was designed using TailwindCSS. <br/>
+It demonstrates the useEffect and useState React Hooks which I intend to use more in future. <br/>
 This application utilizes the random quotes API [more about that can be seen here](https://github.com/lukePeavey/quotable)
 
 ### Live Demo
